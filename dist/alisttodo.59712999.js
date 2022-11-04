@@ -142,7 +142,7 @@
       this[globalName] = mainExports;
     }
   }
-})({"crhYU":[function(require,module,exports) {
+})({"lX4BT":[function(require,module,exports) {
 "use strict";
 var global = arguments[3];
 var HMR_HOST = null;
@@ -533,6 +533,6 @@ function hmrAcceptRun(bundle, id) {
 
 },{}],"4M6V8":[function(require,module,exports) {
 
-},{}]},["crhYU","4M6V8"], "4M6V8", "parcelRequire94c2")
+},{}]},["lX4BT","4M6V8"], "4M6V8", "parcelRequire94c2")
 
 //# sourceMappingURL=alisttodo.59712999.js.map
